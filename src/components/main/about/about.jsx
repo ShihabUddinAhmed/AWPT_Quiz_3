@@ -1,26 +1,26 @@
 import React from 'react';
 const About = () => {
     return(
-        <section id="about" class="about">
-            <div class="container">
+        <section id="about" className="about">
+            <div className="container">
     
-            <div class="row">
-                <div class="col-lg-6">
-                <img src="assets/img/about.jpg" class="img-fluid" alt=""/>
+            <div className="row">
+                <div className="col-lg-6">
+                <img src="assets/img/about.jpg" className="img-fluid" alt=""/>
                 </div>
-                <div class="col-lg-6 pt-4 pt-lg-0">
+                <div className="col-lg-6 pt-4 pt-lg-0">
                 <h3>Voluptatem dignissimos provident quasi</h3>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
                 </p>
-                <div class="row">
-                    <div class="col-md-6">
-                    <i class="bx bx-receipt"></i>
+                <div className="row">
+                    <div className="col-md-6">
+                    <i className="bx bx-receipt"></i>
                     <h4>Corporis voluptates sit</h4>
                     <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
                     </div>
-                    <div class="col-md-6">
-                    <i class="bx bx-cube-alt"></i>
+                    <div className="col-md-6">
+                    <i className="bx bx-cube-alt"></i>
                     <h4>Ullamco laboris nisi</h4>
                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
                     </div>
